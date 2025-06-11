@@ -91,5 +91,6 @@ int main() {
 	printf("Quantidade de pontos turísticos: %d\n", Numero_PontosTuristicos_B);
   printf("\n ------------------------- \n");
 
+  //Fim do Programa
 return 0;
 } 
